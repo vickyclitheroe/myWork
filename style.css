@@ -1,6 +1,8 @@
 div{
   height:100px;
   width:60px;
-  background-color:white;
+  background-color:yellow;
   border:5px solid black;
+  margin-left:200px;
+  text-align:center;
 }
