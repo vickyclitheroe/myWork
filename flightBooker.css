@@ -1,0 +1,23 @@
+body{
+    background-color:C4EDF5;
+}
+img{
+    height:100px;
+    width:450px;
+    border:solid white;
+    border-radius:50px;
+    box-shadow:white 10px 10px 10px;
+}
+
+
+h2{
+    text-align:center;
+    color:Blue;
+    background-color:C4EDF5;
+    
+    font-family:verdana;
+}
+
+#departing{
+    border:black solid;
+}
