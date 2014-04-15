@@ -1,5 +1,6 @@
 h1{
-   font-family:verdana;
-   color:pink;
+   font-family:verdana, bold;
+   color:#f975f7;
    size:100px;
+   transform:rotate(-15 deg);
 }
