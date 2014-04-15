@@ -1,0 +1,31 @@
+#header{
+    color:CF4D25;
+    background-color:#F5E3DA;
+    text-align:center;
+    border:solid 2px;
+    border-radius:100px;
+    text-shadow: 1px 1px;
+    box-shadow: 5px 5px 10px #888888;
+    font-family:lobster;
+}
+
+#inputs{
+    background-color:;
+    color:#F27333;
+    text-align:center;
+    
+}
+
+#wrapper {
+    border-left: 1px solid #888;
+    border-right: 1px solid #888;
+    border-bottom: 1px solid #888;
+    position: relative;
+    top: -10px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    box-shadow: 3px 3px 3px #444;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 0.8em;
+}
