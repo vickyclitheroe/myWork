@@ -6,3 +6,10 @@ body{
 background-color:pink;
 
 }
+
+#back{
+  width:70px;
+  height:30px;
+  border:black;
+  background-color:blue;
+}
