@@ -1,6 +1,7 @@
 h1{
-   font-family:verdana, bold;
+   font-family:'fantasy';
    color:#f975f7;
    size:100px;
-   transform:rotate(-15 deg);
+   font-weight: 800;
+   
 }
