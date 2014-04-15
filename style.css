@@ -18,3 +18,10 @@ transform:rotate(-15deg);
   -webkit-filter: drop-shadow(2px 2px 20px #f008b7);
   z-index: 20;
 }
+
+
+#Aboutme{
+   height:50px;
+   width:50px;
+   background-color:white;
+}
