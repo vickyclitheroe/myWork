@@ -1,17 +1,5 @@
-#1{
-  height:400px;
-  width:400px;
-  background-color:yellow;
-  border:5px solid black;
-  margin-left:200px;
-  text-align:center;
-}
-
-#2{
-  height:400px;
-  width:400px;
-  background-color:white;
-  border:5px solid black;
-  margin-left:700px;
-  text-align:center;
+p{
+  font-family:'mr Dafoe';
+  color:#f975f7;
+  transform:rotate (-15deg);
 }
