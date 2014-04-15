@@ -4,6 +4,6 @@ h1{
    size:100px;
    font-weight: 800;
 
-   transform:rotate(7deg);
-   -webkit-transform:rotate(7deg);
+   transform:rotate(-10deg);
+   -webkit-transform:rotate(-10deg);
 }
