@@ -77,3 +77,8 @@ transform:rotate(-15deg);
    border-radius:100px;
    margin-top:50%;
 }
+
+#me{
+   height:70px;
+   width:60px;
+}
