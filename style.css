@@ -45,7 +45,7 @@ transform:rotate(-15deg);
    size:250px;
    position:absolute;
    top:40%;
-   left:33%;
+   left:40%;
 }
 
 
@@ -94,6 +94,6 @@ transform:rotate(-15deg);
    border-radius:130px;
    border:black solid 10px;
   position: absolute;
-  top : 15%;
+  top : 8%;
   left: 43%;
 }
