@@ -42,7 +42,7 @@ transform:rotate(-15deg);
 {
    font-family:'Mr Dafoe';
    color:white;
-   size:90px;
+   size:150px;
    position:absolute;
    top:33%;
    left:33%;
@@ -94,6 +94,6 @@ transform:rotate(-15deg);
    border-radius:130px;
    border:black solid 10px;
   position: absolute;
-  top : 20%;
+  top : 15%;
   left: 43%;
 }
