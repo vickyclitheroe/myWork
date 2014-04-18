@@ -38,6 +38,16 @@ transform:rotate(-15deg);
   left: 44%;
 
 }
+#name
+{
+   font-family:'Mr Dafoe';
+   color:white;
+   size:90px;
+   position:absolute;
+   top:33%;
+   left:33%;
+}
+
 
 .MainBody
 {
