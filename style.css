@@ -34,7 +34,7 @@ transform:rotate(-15deg);
   size : 50px;
 
   position: absolute;
-  top : 50%;
+  top : 40%;
   left: 44%;
 
 }
@@ -89,10 +89,10 @@ transform:rotate(-15deg);
 }
 
 #me{
-   height:150px;
+   height:180px;
    width:150px;
    border-radius:150px;
-   border:black solid 10px;
+   border:#434335 solid 5px;
   position: absolute;
   top : 12%;
   left: 43%;
