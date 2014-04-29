@@ -8,6 +8,8 @@
     <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+  <link rel ="stylesheet" type ="text/css" href = "myPortfolio.css">
 </head>
 
 
@@ -38,28 +40,49 @@
         </div>
     </div>
 </div>
+<div id ="caraselContainer">
+  <div id="WorkCarousel" class="carousel slide">
+    <div class="carousel-inner">  
+     <!-- Snow man project -->
+     <div class="item active"><!-- class of active since it's the first item -->
+        <div class = "imageContainer">
+          <img class = "caraselImage" src="Images/SnowMan.png" alt="" />
+        </div>
+        <div class="carousel-caption">
+          <p>Make a snowman</p>
+        </div>
+      </div>
+      
+       <!-- Pizza Booker project -->
+      <div class="item"><!-- class of active since it's the first item -->
+        <div class = "imageContainer">
+          <img class = "caraselImage" src="Images/PizzaBooker.png" alt="" />
+        </div>
+        <div class="carousel-caption">
+          <p>Order some pizza</p>
+        </div>
+      </div>
 
-<div id="WorkCarousel" class="carousel slide">
-  <div class="carousel-inner">
-    <div class="item active"><!-- class of active since it's the first item -->
-      <img src="Images/SnowMan.png" alt="" />
-      <div class="carousel-caption">
-        <p>Make a snowman</p>
+
+       <div class="item"><!-- class of active since it's the first item -->
+        <div class = "imageContainer">
+          <img class = "caraselImage" src="Images/BackgroundChange.png" alt="" />
+        </div>
+        <div class="carousel-caption">
+          <p>Order some pizza</p>
+        </div>
       </div>
-    </div>
-    <div class="item">
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Example 2</p>
-      </div>
-    </div>
-  </div><!-- /.carousel-inner -->
+
+
+
+
+    </div><!-- /.carousel-inner -->
   <!--  Next and Previous controls below
         href values must reference the id for this carousel -->
     <a class="carousel-control left" href="#WorkCarousel" data-slide="prev">&lsaquo;</a>
     <a class="carousel-control right" href="#WorkCarousel" data-slide="next">&rsaquo;</a>
 </div><!-- /.carousel -->
-
+</div>
 
 
 
