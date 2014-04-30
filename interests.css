@@ -32,15 +32,15 @@ p{
   
 }
 
+
+
+
 #me{
-  height:300px;
-  width:300px;
-  border-radius:300px;
-  border: solid,60px, white;
-  position:absolute;
-  top:50%;
-  left:40%;
+   height:160px;
+   width:150px;
+   border-radius:150px;
+   border:#434335 solid 5px;
+  position: absolute;
+  top : 12%;
+  left: 43%;
 }
-
-
-
