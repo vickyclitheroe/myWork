@@ -33,10 +33,10 @@ p{
 }
 
 #me{
-  height:100px;
-  width:100px;
-  border-radius:40px;
-  border: solid,20px, white;
+  height:300px;
+  width:300px;
+  border-radius:300px;
+  border: solid,60px, white;
   position:absolute;
   top:50%;
   left:40%;
