@@ -1,5 +1,6 @@
 h1{
 font-family:verdana;
+text-align:center;
 }
 
 body{
@@ -13,5 +14,9 @@ background-color:#242928;
   border:2px black;
   background-color:blue;
   color:black;
+  text-align:center;
+}
+
+p{
   text-align:center;
 }
