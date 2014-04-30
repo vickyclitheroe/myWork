@@ -1,6 +1,7 @@
 h1{
 font-family:verdana;
 text-align:center;
+color:white;
 }
 
 body{
@@ -16,11 +17,14 @@ text-align:center;
   background-color:blue;
   color:black;
   text-align:center;
+  
 }
 
 ol{
   text-align:center;
+  color:white;
 }
 li{
   text-align:center;
+  color:white;
 }
