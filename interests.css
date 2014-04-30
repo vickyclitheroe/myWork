@@ -1,6 +1,5 @@
 
 
-
 body{
 background-color:#242928;
 text-align:center;
@@ -11,12 +10,17 @@ h1{
 font-family:verdana;
 text-align:center;
 color:white;
+position:absolute;
+top:30%;
 }
 
 p{
   color:white;
   text-align:center;
   font-family:lucida;
+  position:absolute;
+  top:40%;
+  
 }
 
 #back{
