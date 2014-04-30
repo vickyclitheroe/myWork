@@ -3,6 +3,10 @@ font-family:verdana;
 text-align:center;
 color:white;
 }
+h3{
+  text-align:center;
+  color:white;
+}
 
 body{
 background-color:#242928;
@@ -20,11 +24,10 @@ text-align:center;
   
 }
 
-ol{
+
+
+#content{
   text-align:center;
   color:white;
-}
-li{
-  text-align:center;
-  color:white;
+  
 }
