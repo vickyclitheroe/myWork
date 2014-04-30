@@ -6,7 +6,7 @@ text-align:center;
 
 h1{
 font-family:verdana;
-color:white;
+color:#CCCFCA;
 position:absolute;
 top:10%;
 left:42%;
@@ -19,7 +19,7 @@ p{
   size:50px;
   position:absolute;
   top:30%;
-  font-size:50%;
+  font-size:250%;
   
 }
 
