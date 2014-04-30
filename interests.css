@@ -29,5 +29,5 @@ text-align:center;
 #content{
   text-align:center;
   color:white;
-  
+  list-style-position: inside;
 }
