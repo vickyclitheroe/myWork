@@ -1,17 +1,22 @@
-h1{
-font-family:verdana;
-text-align:center;
-color:white;
-}
-h3{
-  text-align:center;
-  color:white;
-}
+
+
 
 body{
 background-color:#242928;
 text-align:center;
 
+}
+
+h1{
+font-family:verdana;
+text-align:center;
+color:white;
+}
+
+p{
+  color:white;
+  text-align:center;
+  font-family:lucida;
 }
 
 #back{
@@ -26,8 +31,3 @@ text-align:center;
 
 
 
-#content{
-  text-align:center;
-  color:white;
-  list-style-position: inside;
-}
