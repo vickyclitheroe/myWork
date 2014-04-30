@@ -18,7 +18,8 @@ p{
   font-family:lucida;
   size:50px;
   position:absolute;
-  top:20%;
+  top:30%;
+  font-size:50%;
   
 }
 
@@ -36,8 +37,8 @@ p{
 
 
 #me{
-   height:180px;
-   width:170px;
+   height:200px;
+   width:190px;
    border-radius:150px;
    border:#CCCFCA solid 5px;
   position: absolute;
