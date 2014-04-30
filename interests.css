@@ -33,9 +33,11 @@ p{
 }
 
 #me{
-  size:90px;
-  border-radius:80px;
+  size:50px;
+  border-radius:40px;
   border:solid,5px, white;
+  position:absolute;
+  top:50%;
 }
 
 
