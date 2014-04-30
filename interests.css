@@ -36,11 +36,11 @@ p{
 
 
 #me{
-   height:160px;
-   width:150px;
+   height:180px;
+   width:170px;
    border-radius:150px;
-   border:#434335 solid 5px;
+   border:#CCCFCA solid 5px;
   position: absolute;
-  top : 12%;
+  top : 50%;
   left: 43%;
 }
