@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+
+ 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+  <link rel ="stylesheet" type ="text/css" href = "myPortfolio.css">
+</head>
+
+
+<script>
+  $(document).ready(function(){
+    $('.carousel').carousel();
+  });
+</script>
+
+<body>
+
+<div class = "navbar  navbar-inverse navbar-fixed-top" role="navigation">
+    <div class ="container">
+        <div class = "collapse navbar-collapse">
+          <ul class = "nav navbar-nav">
+          
+            <li>
+                <a href ="/myWork/interests">About me </a>
+            </li>
+            <li>
+                <a href ="/myWork/myProjects"> My Work </a>
+            </li>
+            <li>
+             <a href = "/myWork/contact">Contact Me </a>
+            </li>
+              
+          <ul>
+        </div>
+    </div>
+</div>
+
+<div id ="caraselContainer">
+  <div id="WorkCarousel" class="carousel slide">
+    <div class="carousel-inner">  
+     <!-- Snow man project -->
+     <div class="item active"><!-- class of active since it's the first item -->
+        <div class = "imageContainer">
+           <a href ="/myWork/buildASnowMan.html">
+          <img class = "caraselImage" src="Images/SnowMan.png" alt="" />
+        </a>
+        </div>
+        <div class="carousel-caption">
+          <p>Make a snowman</p>
+        </div>
+      </div>
+      
+       <!-- Pizza Booker project -->
+      <div class="item"><!-- class of active since it's the first item -->
+        <div class = "imageContainer">
+          <a href ="/myWork/pizzaOrder.html">
+          <img class = "caraselImage" src="Images/PizzaBooker.png" alt="" />
+          </a>
+        </div>
+        <div class="carousel-caption">
+          <p>Order some pizza</p>
+        </div>
+      </div>
+
+
+       <div class="item"><!-- class of active since it's the first item -->
+        <div class = "imageContainer">
+           <a href ="/myWork/backgroundChange.html">
+          <img class = "caraselImage" src="Images/BackgroundChange.png" alt="" />
+          </a>
+        </div>
+        <div class="carousel-caption">
+          <p>Order some pizza</p>
+        </div>
+      </div>
+
+
+
+
+    </div><!-- /.carousel-inner -->
+  <!--  Next and Previous controls below
+        href values must reference the id for this carousel -->
+    <a class="carousel-control left" href="#WorkCarousel" data-slide="prev">&lsaquo;</a>
+    <a class="carousel-control right" href="#WorkCarousel" data-slide="next">&rsaquo;</a>
+</div><!-- /.carousel -->
+</div>
+
+
+
+</body>
+
+
+
+
+
+
+</html>
