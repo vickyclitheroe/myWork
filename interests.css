@@ -8,17 +8,17 @@ h1{
 font-family:verdana;
 color:#CCCFCA;
 position:absolute;
-top:10%;
+top:40%;
 left:42%;
 }
 
 p{
-  color:white;
+  color:#CCCFCA;
   text-align:center;
   font-family:lucida;
   size:50px;
   position:absolute;
-  top:30%;
+  top:50%;
   font-size:150%;
   margin-left:20%;
   margin-right:20%;
@@ -43,6 +43,6 @@ p{
    border-radius:150px;
    border:#CCCFCA solid 5px;
   position: absolute;
-  top : 60%;
+  top : 80%;
   left: 43%;
 }
