@@ -8,7 +8,7 @@ h1{
 font-family:verdana;
 color:#CCCFCA;
 position:absolute;
-top:40%;
+top:20%;
 left:42%;
 }
 
@@ -16,7 +16,7 @@ p{
   color:black;
   text-align:center;
   font-family:lucida;
-  size:50px;
+  size:35px;
   position:absolute;
   top:70%;
   font-size:150%;
