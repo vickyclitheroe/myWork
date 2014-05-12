@@ -1,6 +1,6 @@
 <?php
-  $name= $_REQUEST['name'] ;
-  $email = $_REQUEST['email'] ;
+  $Name= $_REQUEST['Name'] ;
+  $EmailAddress = $_REQUEST['Email Address'] ;
   $message = $_REQUEST['message'] ;
 
   mail( "vickyclitheroe@gmail.com", "Feedback Form Results",
