@@ -83,3 +83,11 @@ p{
      -webkit-border-radius: 0 0 90px 90px;
      background:red;
 }
+
+#Back{
+	color:black;
+	width:40px;
+	height:40px;
+	border-top:10%;
+	border-left:10%;
+}
