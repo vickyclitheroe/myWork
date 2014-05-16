@@ -8,19 +8,20 @@
 
 #c1{
    position:absolute;
-   top:95%;
-   left:60%;
+   top:96%;
+   left:63%;
+   font:bold;
 }
 
 #c2{
    position:absolute;
-   top:95%;
+   top:96%;
    left:70%;
 }
 
 #c3{
    position:absolute;
-   top:95%;
+   top:96%;
    left:85%;
 }
 
