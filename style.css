@@ -98,3 +98,7 @@ transform:rotate(-15deg);
   top : 12%;
   left: 43%;
 }
+
+li{
+   margin-left: 1em
+}
