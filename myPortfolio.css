@@ -46,8 +46,8 @@ body
 #right
 {
     position: relative;
-    top : -50px;
-    left : 50%;
+    top : -325px;
+    left : 60%;
 }
 
 
@@ -55,9 +55,9 @@ body
 #left
 {
     position: relative;
-    left : -5%;
+    top : -275px;
+    left : -10%;
 }
-
 
 .imageContainer {
 	left : 25%;
