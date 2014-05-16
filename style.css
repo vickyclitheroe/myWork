@@ -101,5 +101,7 @@ transform:rotate(-15deg);
 
 li{
    margin-left: 2em;
-   color:white;
+   color:#CCCCB2;
+   position:relative;
+   right:10%;
 }
