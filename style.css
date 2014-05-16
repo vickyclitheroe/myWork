@@ -6,6 +6,32 @@
    bottom: 0px;
 }
 
+#c1{
+   position:fixed;
+   margin-bottom:2%;
+   margin:60%;
+}
+
+#c2{
+   position:fixed;
+   margin-bottom:2%;
+   margin:70%;
+}
+
+#c3{
+   position:fixed;
+   margin-bottom:2%;
+   margin:80%;
+}
+
+
+
+
+
+
+
+
+
 img{
    position:relative;
    left:0;
