@@ -70,8 +70,8 @@ body
 .imageCaption
 {
     position: absolute;
-    top : 350px;
-    left : 20%;
+    top : 320px;
+    left : 15%;
     text-align:center;
     color:rgb(255,255,255)
 }
