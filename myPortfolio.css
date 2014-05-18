@@ -21,7 +21,12 @@ body
     width  : 50px;
     border: #545252 solid 1px;
     border-radius: 50px;
+    
+}
 
+.moveButton{
+	cursor:hand;
+	cursor:pointer;
 }
 
 .Arrow
