@@ -24,7 +24,7 @@ body
     
 }
 
-.moveButton.hover{
+.moveButton:hover{
 	cursor:hand;
 	cursor:pointer;
 }
