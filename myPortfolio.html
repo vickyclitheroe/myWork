@@ -16,16 +16,19 @@
 <script>
   $(document).ready(function()
   {
-    $('.carousel').carousel();
+    var carouselSpeed = 1000;
+    $('.carousel').carousel( { interval : carouselSpeed } )
 
     $("#left").click( function()
     {
+        $('.carousel').carousel( { interval : carouselSpeed } )
         $('.carousel').carousel('prev');
     } );
 
 
      $("#right").click( function()
     {
+        $('.carousel').carousel( { interval : carouselSpeed } )
         $('.carousel').carousel('next');
     } );
 
