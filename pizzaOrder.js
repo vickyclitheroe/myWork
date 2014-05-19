@@ -89,7 +89,7 @@ $(document).ready(function(){
       else
       {
         
-          $('#pizza').css("background-color","#000000");
+          $('#pizza').css("background-color","#F00C17");
       }
     });
 
