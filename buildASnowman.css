@@ -5,8 +5,8 @@ p{
     margin-left:40%;
 }
 #head{
-	margin-top:30%;
-	left:20%;
+	margin-top:20%;
+	margin-left:20%;
     background-color:white;
     height:80px;
     width:80px;
@@ -15,8 +15,7 @@ p{
 }
 
 #body{
-	top:30%;
-	left:20%;
+	margin-left:20%;
     background-color:white;
     height:150px;
     width:150px;
