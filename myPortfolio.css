@@ -76,10 +76,31 @@ body
 {
     position: absolute;
     top : 310px;
-    left : 15%;
     text-align:center;
     color:rgb(255,255,255)
 }
+
+#snowmanCaption
+{
+    left : 8%;
+}
+
+#pizzaOrderCaption
+{
+    left : 13%;
+}
+
+#flightBookerCaption
+{
+    left : 15%;
+}
+
+#backgroundChangeCaption
+{
+    left : 11%;
+}
+
+
 
 
 
