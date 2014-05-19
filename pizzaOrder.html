@@ -1,12 +1,11 @@
-<!DOCTYPE html>
 <html>
   
     <head>
-    	<title>Background color Changer</title>
-    	<link rel ="stylesheet" type ="text/css" href = "pizzaOrder.css">
+      <title>Background color Changer</title>
+      <link rel ="stylesheet" type ="text/css" href = "pizzaOrder.css">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
       <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-      <script src="backgroundChange.js"></script>
+      <script src="pizzaOrder.js"></script>
       <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
     </head>
 
@@ -44,13 +43,13 @@
         
         
             <div id="inputs">
-	    
-	    <form>
-	      <input type='text' name='first name' value='First name'>
-	      
-	      <input type='text' name='Last name' value='Last name'>
-	        
-	        <p>Type your Address below:</p><br/>
+
+      <form>
+        <input type='text' name='first name' value='First name'>
+
+        <input type='text' name='Last name' value='Last name'>
+
+          <p>Type your Address below:</p><br/>
 <textarea></textarea>
 
 <p>Do you want your pizza delivered?</p>
@@ -59,23 +58,43 @@
 
 <p>Pizza toppings</p>
 <p>(Check all that apply)</p>
-<input type='checkbox' checked>Cheese
-<input type='checkbox'>Pepper
-<input type='checkbox'>Pepperoni
-<input type='checkbox'>Ham
+<input id ="cheesebox" type='checkbox' checked>Cheese
+  
+<input id="pepperbox" type='checkbox'>Pepper
+  
+<input id ="pepperonibox" type='checkbox'>Pepperoni
+  
+<input id = "mushbox" type='checkbox'>Mushroom
 
 
-<input type ='submit' value = 'Give me my pizza!'>
-	        
-	    </form>
-	    
-	    
-	    
-	    
-</div>	    
-	 
-	    
-	    
-	    
-	</body>
+<input id="subbtn" type ='submit' value = 'Give me my pizza!'>
+
+      </form>
+
+</div>  
+  
+  <div id = "pizza">
+      
+      <div id = "pepperoni1"></div>
+      <div id = "pepperoni2"></div>
+      <div id = "pepperoni3"></div>
+      <div id = "pepperoni4"></div>
+      
+      <div id= "pepper1"></div>
+      <div id = "pepper2"></div>
+      <div id = "pepper3"></div>
+      <div id = "pepper4"></div>
+      
+      <div id ="mushroom1"></div>
+      <div id ="mushroom2"></div>
+      <div id ="mushroom3"></div>
+      <div id ="mushroom4"></div>
+      <div id ="mushroom5"></div>
+      
+  </div>
+
+
+
+
+  </body>
 </html>
