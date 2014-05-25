@@ -14,13 +14,12 @@
 {
   color : #1B2DF2;
   position : absolute;
-  top : 40%;
-  left : 36%;
+  
   word-wrap: break-word;
    width: 80px;
   text-align:center;
   text-shadow:5px 5px 30px #4E75F5;
-  font-size:12px;
+  font-size:13px;
  
 }
 
