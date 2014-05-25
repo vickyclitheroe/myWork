@@ -1,7 +1,7 @@
 #h1{
   left:40%;
   font-family:Geneva,tahoma;
-  top:15%;
+  top:12%;
   position:absolute;
   color:black;
   
@@ -27,7 +27,7 @@
 #ballParent{
   position:relative;
   left : 25%;
-  margin-top : 15%;
+  margin-top : 10%;
   
 }
 
@@ -58,10 +58,10 @@
 #triangle{
    width: 0; 
 	height: 0; 
-	border-left: 100px solid transparent;
-	border-right: 100px solid transparent;
+	border-left: 80px solid transparent;
+	border-right: 80px solid transparent;
 	
-	border-top: 90 solid #07091F;
+	border-top: 120 solid #07091F;
   position:absolute;
   margin-left:17%;
   margin-top:30%;
@@ -86,5 +86,5 @@
 #form{
   position:absolute;
   left:40%;
-  margin-top : 25%;
+  margin-top : 32%;
 }
