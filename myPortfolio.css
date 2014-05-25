@@ -105,7 +105,9 @@ body
     left : 11%;
 }
 
-
+#8BallCaption{
+	left:13%;
+}
 
 /* resize images */
 .caraselImage{
