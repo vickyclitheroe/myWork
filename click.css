@@ -1,4 +1,4 @@
-body{
+#bodyId{
 background-color:grey;
 user-select : none;
   
@@ -29,7 +29,7 @@ user-select : none;
 
 
 
-h3{
+#h3Id{
   position : absolute;
   left : 40%;
   top : 30%;
@@ -52,7 +52,7 @@ h3{
 }
 
 
-h1{
+#h1Id{
   position : absolute;
   left : 20%;
   margin-top : 30%;
