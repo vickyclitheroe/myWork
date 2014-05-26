@@ -1,0 +1,78 @@
+body{
+background-color:grey;
+user-select : none;
+  
+
+}
+#start{
+  height:70px;
+  width:120px;
+  background-color:#9E1195;
+  text-align:center;
+  font-size:300%;
+  border:5px black solid;
+  cursor: pointer;
+  text-shadow:2px 2px 5px;
+  border-radius:10%;
+  user-select : none;
+  position : absolute;
+  left : 45%;
+  margin-top : 22%;
+}
+
+#buttonParent
+{
+  position : relative;
+  left : 0%;
+  top  : 0%;
+}
+
+
+
+h3{
+  position : absolute;
+  left : 40%;
+  top : 30%;
+  text-align:center;
+  text-shadow:2px 2px 50px;
+  font-size:700%;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color:#4EEDE3;
+  user-select : none;
+
+}
+
+
+#TryAgain
+{
+  font-size : 500%;
+  position : absolute;
+  margin-top : 17%;
+  left : 30%;
+}
+
+
+h1{
+  position : absolute;
+  left : 20%;
+  margin-top : 30%;
+  text-align:center;
+  font-size:200%;
+  user-select : none;
+
+}
+
+#clickCounter{
+  position:absolute;
+  top:10%;
+  left:45%;
+   font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:900%;
+  text-shadow:0px 0px 10px;
+  color:white;
+  user-select : none;
+
+}
+
+
+
