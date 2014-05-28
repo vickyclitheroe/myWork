@@ -108,6 +108,9 @@ body
 #BallCaption{
 	left:20%;
 }
+#ClickCaption{
+left:20%;	
+}
 
 /* resize images */
 .caraselImage{
