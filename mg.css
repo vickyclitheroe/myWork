@@ -17,7 +17,7 @@ cursor:pointer;
   line-height:10px;
 }
 
-#section3{
+#section3 {
   
   margin-top:30px;
   text-align:center;
@@ -25,4 +25,12 @@ cursor:pointer;
   line-height:10px;
 }
   
+#section3 ul {
+  
+  margin-top:10px;
+  text-align:center;
+  margin-bottom:10px;
+  line-height:10px;
 }
+
+#final
