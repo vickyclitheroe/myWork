@@ -17,9 +17,11 @@ cursor:pointer;
   line-height:10px;
 }
 
+#section3{
+  margin-top:30px;
+}
 #section3 p{
   margin-left:10px;
-  margin-top:20px;
 }
 #final{
   margin-top:10px;
