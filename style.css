@@ -143,4 +143,11 @@ li{
   color:pink;
   font-size: 50px;
   font-family: fantasy;
+
+   height:200px;
+   width:200px;
+   background-color:white;
+   margin-left:300px;
+   border-radius:100px;
+   margin-top:50%;
 }
