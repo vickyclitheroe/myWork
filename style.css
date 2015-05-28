@@ -11,7 +11,7 @@
 #contact{
    height:5%;
    width:100%;
-   background-color:black;
+   background-color:white;
    position: absolute;
    bottom: 0px;
 }
@@ -107,7 +107,7 @@ transform:rotate(-15deg);
 #Aboutme{
    height:200px;
    width:200px;
-   background-color:black;
+   background-color:white;
    margin-left:300px;
    border-radius:100px;
    margin-top:50%;
@@ -117,7 +117,7 @@ transform:rotate(-15deg);
 #myProjects{
    height:200px;
    width:200px;
-   background-color:black;
+   background-color:white;
    margin-left:700px;
    border-radius:100px;
    margin-top:50%;
